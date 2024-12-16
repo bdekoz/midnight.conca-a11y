@@ -1,4 +1,4 @@
-//![alpha60 logo](/images/a60-logo-outline.svg)
+![midnight logo](/image/mozura-2019-v2.png)
 
 # Results per URL
 
