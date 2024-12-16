@@ -1,6 +1,6 @@
 ![midnight logo](/image/mozura-2019-v2.png)
 
-# Results per URL
+# [Sitelist](https://github.com/bdekoz/midnight.conca-a11y/tree/main/results/sitelist.txt)
 
 - [amazon_laptop](/pages/2024-11-10-amazon_laptop-android-aggregate.svg)
 - [amazon_mobile_phone](/pages/2024-11-10-amazon_mobile_phone-android-aggregate.svg)
@@ -29,4 +29,4 @@
 
 # Notes
 
-* [DATE](2024-11-10)
+* [Results](https://github.com/bdekoz/midnight.conca-a11y/tree/main/results)
