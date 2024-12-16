@@ -1,0 +1,471 @@
+{
+  "test": "en_m_wikipedia_portal_current",
+  "platform": "android",
+  "date": "2024-11-10",
+  "video_side_by_side": "2024-11-10-android-en_m_wikipedia_portal_current-side-by-side.mp4",
+  "firefox": {
+    "filmstrip_interval": 100,
+    "filmstrip": {
+      "00000": "2024-11-10-android-en_m_wikipedia_portal_current-firefox_00000.png",
+      "00100": "2024-11-10-android-en_m_wikipedia_portal_current-firefox_00100.png",
+      "00200": "2024-11-10-android-en_m_wikipedia_portal_current-firefox_00200.png",
+      "00300": "2024-11-10-android-en_m_wikipedia_portal_current-firefox_00300.png",
+      "00400": "2024-11-10-android-en_m_wikipedia_portal_current-firefox_00400.png",
+      "00500": "2024-11-10-android-en_m_wikipedia_portal_current-firefox_00500.png",
+      "00600": "2024-11-10-android-en_m_wikipedia_portal_current-firefox_00600.png"
+    },
+    "metrics": {
+      "fcp": {
+        "median": "436",
+        "stddev": "49.000000",
+        "rsd": "10.757671"
+      },
+      "largestContentfulPaintloadTime": {
+        "median": "709",
+        "stddev": "58.000000",
+        "rsd": "7.961390"
+      },
+      "largestContentfulPaintrenderTime": {
+        "median": "715",
+        "stddev": "63.000000",
+        "rsd": "8.642941"
+      },
+      "redirectStart": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "redirectEnd": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "fetchStart": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "domainLookupStart": {
+        "median": "16",
+        "stddev": "15.810000",
+        "rsd": "69.939504"
+      },
+      "connectStart": {
+        "median": "22",
+        "stddev": "31.910000",
+        "rsd": "83.306185"
+      },
+      "requestStart": {
+        "median": "162",
+        "stddev": "39.000000",
+        "rsd": "21.987456"
+      },
+      "responseStart": {
+        "median": "256",
+        "stddev": "40.000000",
+        "rsd": "14.723189"
+      },
+      "domInteractive": {
+        "median": "461",
+        "stddev": "46.000000",
+        "rsd": "9.493704"
+      },
+      "domComplete": {
+        "median": "798",
+        "stddev": "50.000000",
+        "rsd": "6.187088"
+      },
+      "loadEventEnd": {
+        "median": "802",
+        "stddev": "50.000000",
+        "rsd": "6.161030"
+      },
+      "SpeedIndex": {
+        "median": "577",
+        "stddev": "49.000000",
+        "rsd": "8.289716"
+      },
+      "VisualComplete85": {
+        "median": "726",
+        "stddev": "72.000000",
+        "rsd": "9.748416"
+      },
+      "LastVisualChange": {
+        "median": "733",
+        "stddev": "167.000000",
+        "rsd": "21.107925"
+      },
+      "lcp_element": "\"\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Donald_Trump_official_portrait_%283x4a%29.jpg/242px-Donald_Trump_official_portrait_%283x4a%29.jpg\"\"",
+      "PerceptualSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "438.000000",
+          "percent": "87"
+        },
+        {
+          "timestamp": "447.000000",
+          "percent": "87"
+        },
+        {
+          "timestamp": "572.000000",
+          "percent": "96"
+        },
+        {
+          "timestamp": "580.000000",
+          "percent": "96"
+        },
+        {
+          "timestamp": "597.000000",
+          "percent": "96"
+        },
+        {
+          "timestamp": "615.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "622.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "631.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "663.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "696.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "713.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "722.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "737.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "755.000000",
+          "percent": "100"
+        }
+      ],
+      "ContentfulSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "438.000000",
+          "percent": "81"
+        },
+        {
+          "timestamp": "447.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "572.000000",
+          "percent": "90"
+        },
+        {
+          "timestamp": "580.000000",
+          "percent": "91"
+        },
+        {
+          "timestamp": "597.000000",
+          "percent": "92"
+        },
+        {
+          "timestamp": "615.000000",
+          "percent": "93"
+        },
+        {
+          "timestamp": "622.000000",
+          "percent": "93"
+        },
+        {
+          "timestamp": "631.000000",
+          "percent": "94"
+        },
+        {
+          "timestamp": "663.000000",
+          "percent": "95"
+        },
+        {
+          "timestamp": "696.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "713.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "722.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "737.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "755.000000",
+          "percent": "100"
+        }
+      ],
+      "SpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "438.000000",
+          "percent": "16"
+        },
+        {
+          "timestamp": "447.000000",
+          "percent": "16"
+        },
+        {
+          "timestamp": "572.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "580.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "597.000000",
+          "percent": "85"
+        },
+        {
+          "timestamp": "615.000000",
+          "percent": "85"
+        },
+        {
+          "timestamp": "622.000000",
+          "percent": "85"
+        },
+        {
+          "timestamp": "631.000000",
+          "percent": "85"
+        },
+        {
+          "timestamp": "663.000000",
+          "percent": "85"
+        },
+        {
+          "timestamp": "696.000000",
+          "percent": "85"
+        },
+        {
+          "timestamp": "713.000000",
+          "percent": "85"
+        },
+        {
+          "timestamp": "722.000000",
+          "percent": "85"
+        },
+        {
+          "timestamp": "737.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "755.000000",
+          "percent": "100"
+        }
+      ]
+    }
+  },
+  "chrome": {
+    "filmstrip_interval": 100,
+    "filmstrip": {
+      "00000": "2024-11-10-android-en_m_wikipedia_portal_current-chrome_00000.png",
+      "00100": "2024-11-10-android-en_m_wikipedia_portal_current-chrome_00100.png",
+      "00200": "2024-11-10-android-en_m_wikipedia_portal_current-chrome_00200.png",
+      "00300": "2024-11-10-android-en_m_wikipedia_portal_current-chrome_00300.png",
+      "00400": "2024-11-10-android-en_m_wikipedia_portal_current-chrome_00400.png",
+      "00500": "2024-11-10-android-en_m_wikipedia_portal_current-chrome_00500.png"
+    },
+    "metrics": {
+      "fcp": {
+        "median": "561",
+        "stddev": "60.000000",
+        "rsd": "10.770509"
+      },
+      "largestContentfulPaintloadTime": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "largestContentfulPaintrenderTime": {
+        "median": "591",
+        "stddev": "36.000000",
+        "rsd": "6.151941"
+      },
+      "redirectStart": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "redirectEnd": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "fetchStart": {
+        "median": "3",
+        "stddev": "1.000000",
+        "rsd": "27.847984"
+      },
+      "domainLookupStart": {
+        "median": "3",
+        "stddev": "1.000000",
+        "rsd": "27.847984"
+      },
+      "connectStart": {
+        "median": "3",
+        "stddev": "1.000000",
+        "rsd": "27.847984"
+      },
+      "requestStart": {
+        "median": "129",
+        "stddev": "15.000000",
+        "rsd": "11.417858"
+      },
+      "responseStart": {
+        "median": "224",
+        "stddev": "18.000000",
+        "rsd": "7.836898"
+      },
+      "domInteractive": {
+        "median": "574",
+        "stddev": "29.000000",
+        "rsd": "5.064420"
+      },
+      "domComplete": {
+        "median": "756",
+        "stddev": "96.000000",
+        "rsd": "12.117668"
+      },
+      "loadEventEnd": {
+        "median": "756",
+        "stddev": "96.000000",
+        "rsd": "12.132560"
+      },
+      "SpeedIndex": {
+        "median": "559",
+        "stddev": "37.000000",
+        "rsd": "6.720937"
+      },
+      "VisualComplete85": {
+        "median": "551",
+        "stddev": "37.000000",
+        "rsd": "6.676657"
+      },
+      "LastVisualChange": {
+        "median": "632",
+        "stddev": "39.000000",
+        "rsd": "6.126498"
+      },
+      "lcp_element": "\"\"<li></li>\"\"",
+      "PerceptualSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "546.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "563.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "579.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "596.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "613.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "630.000000",
+          "percent": "100"
+        }
+      ],
+      "ContentfulSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "546.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "563.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "579.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "596.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "613.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "630.000000",
+          "percent": "100"
+        }
+      ],
+      "SpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "546.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "563.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "579.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "596.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "613.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "630.000000",
+          "percent": "100"
+        }
+      ]
+    }
+  }
+}
