@@ -1,4 +1,3 @@
-![midnight logo](/image/mozura-2019-v2.png)
 
 # [Sitelist](https://github.com/bdekoz/midnight.conca-a11y/tree/main/results/sitelist.txt)
 
