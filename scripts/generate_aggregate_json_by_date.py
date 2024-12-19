@@ -41,7 +41,7 @@ def serialize_aggregate(tname, tplatform, date, sbys_video,
           chromem_dict = json.load(jcm)
           chrome_dict["metrics"] = chromem_dict
       vdict["chrome"] = chrome_dict
-    ofname = date + "-" + tname + "-" + tplatform + "-aggregate.json"
+    ofname = date + "-" + tplatform + "-" + tname + "-aggregate.json"
     with open(ofname, 'w') as of:
         json.dump(vdict, of, indent=2)
 
