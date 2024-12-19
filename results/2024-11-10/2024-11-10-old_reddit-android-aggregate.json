@@ -40,7 +40,7 @@
         "stddev": "162.000000",
         "rsd": "8.465200"
       },
-      "largestContentfulPaintrenderTime": {
+      "lcp": {
         "median": "1869",
         "stddev": "162.000000",
         "rsd": "8.465200"
@@ -213,7 +213,7 @@
         "stddev": "219.000000",
         "rsd": "14.099751"
       },
-      "largestContentfulPaintrenderTime": {
+      "lcp": {
         "median": "1536",
         "stddev": "219.000000",
         "rsd": "14.099751"
