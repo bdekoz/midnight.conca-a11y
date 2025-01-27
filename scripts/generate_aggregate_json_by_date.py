@@ -8,6 +8,7 @@ import os
 import subprocess
 import json
 from pathlib import Path
+from origin_content_classifier import classify_web_content_traits
 
 # setup input file, output file naming conventions
 testn = sys.argv[1];
@@ -27,9 +28,10 @@ def serialize_aggregate(tname, url, tplatform, date, sbys_video,
                         flmfirefoxj, mtrxfirefoxj,
                         flmchromej, mtrxchromej):
     vdict = {"test" : tname }
-    vdict = {"url" : url }
     vdict["platform"] = tplatform
     vdict["date"] = date
+    vdict = {"url" : url }
+    vdict["url_content_traits"] = classify_web_content_traits(url)
     vdict["video_side_by_side"] = sbys_video
     with open(flmfirefoxj, 'r') as jff:
         firefox_dict = json.load(jff)
